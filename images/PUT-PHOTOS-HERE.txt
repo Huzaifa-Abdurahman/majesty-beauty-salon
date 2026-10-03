@@ -1,0 +1,19 @@
+Put the salon's photos in this folder using these exact names (.jpg).
+Any photo that's missing shows a gold placeholder on the site.
+
+hero.jpg            Big background photo on the opening screen (wide, portrait of a client works great)
+svc-color.jpg       Color application card
+svc-nails.jpg       Manicure & pedicure card
+svc-makeup.jpg      Makeup card
+svc-lashes.jpg      Eyelash extensions card
+svc-haircut.jpg     Haircuts & styles card
+svc-barber.jpg      Barbering card
+svc-braids.jpg      Extensions, locs & braids card
+about.jpg           About Us photo (inside the salon)
+sig-braids.jpg      Signature: Men's braids
+sig-barber.jpg      Signature: Barber style
+sig-nails.jpg       Signature: Fresh nails
+gallery-banner.jpg  Background behind "Our Gallery"
+book-banner.jpg     Background behind "Book Your Appointment"
+contact-banner.jpg  Background behind "Get in Touch"
+gallery-1.jpg ... gallery-8.jpg   Gallery photos
